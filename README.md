@@ -2,6 +2,4 @@
 一个借鉴他人编写的简单网页错误 征用win10蓝屏页面
 
 测试页面
-```
 [https://error.nuoyis.net](https://error.nuoyis.net)
-```
